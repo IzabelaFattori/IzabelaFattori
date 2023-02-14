@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Trybe<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Redux<br>💬 Ask me about anything!<br>⚡ HARD WORKS ALWAYS WORK!
+🔭 I’m currently studying on Trybe<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning DataBase<br>💬 Ask me about anything!<br>⚡ HARD WORKS ALWAYS WORK!
 
 
 ## 🌐 Socials:
