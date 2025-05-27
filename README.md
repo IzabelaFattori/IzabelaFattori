@@ -6,7 +6,7 @@
 <li>👾 Part of Pinely International</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: izabela.fattori@pinely.eu</li>
+<li>📫 How to reach me: izafattori2@gmail.com</li>
 </ul>
 
 
@@ -18,9 +18,9 @@
 
 ## 🧪 Test Automation:
 <ul>
-  <li>✅ Experiência sólida com <strong>Cypress</strong> e <strong>Selenium/WebdriverIO</strong></li>
-  <li>🧠 Desenvolvimento de testes E2E com foco em performance e cobertura</li>
-  <li>🔁 Integração de testes automatizados em pipelines CI/CD</li>
+✅ Solid experience with Cypress and Selenium/WebdriverIO  
+🧠 E2E test development focused on performance and coverage  
+🔁 Integration of automated tests into CI/CD pipelines
 </ul>
 
 # 📊 GitHub Stats:
