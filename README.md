@@ -18,10 +18,11 @@
 
 ## 🧪 Test Automation:
 <ul>
-✅ Solid experience with Cypress and Selenium/WebdriverIO  
-🧠 E2E test development focused on performance and coverage  
-🔁 Integration of automated tests into CI/CD pipelines
+  <li>✅ Solid experience with <strong>Cypress</strong> and <strong>Selenium/WebdriverIO</strong></li>
+  <li>🧠 E2E test development focused on performance and coverage</li>
+  <li>🔁 Integration of automated tests into CI/CD pipelines</li>
 </ul>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IzabelaFattori&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
